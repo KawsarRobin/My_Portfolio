@@ -2,7 +2,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import * as React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import About from './Pages/Home/About/About';
+import Blogs from './Pages/Home/Blogs/Blogs';
+import Contact from './Pages/Home/Contact/Contact';
 import Home from './Pages/Home/Home/Home';
+import Skills from './Pages/Home/Skills/Skills';
 import Projects from './Pages/Projects/Projects/Projects';
 import NotFound from './Shared/NotFound/NotFound';
 function App() {
@@ -14,6 +17,9 @@ function App() {
           <Route path="/home" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/blog" element={<Blogs />} />
+          <Route path="/skill" element={<Skills />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
