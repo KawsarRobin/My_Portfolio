@@ -27,7 +27,7 @@ const About = () => {
         <Row xs={1} md={2} className="g-5">
           <Slide left>
             <Col>
-              <div className="">
+              <div className=" p-5">
                 <img
                   className=" rounded rounded-5 img-fluid"
                   src={`https://the-shahriar.github.io/assets/img/illustration/dark_illustration.svg`}

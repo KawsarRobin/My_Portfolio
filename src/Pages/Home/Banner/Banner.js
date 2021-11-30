@@ -62,7 +62,7 @@ const Banner = () => {
                   rel="noopener noreferrer"
                   style={{ color: '#FFA600' }}
                   className="secondaryColor"
-                  href="https://www.linkedin.com/in/kawsar-robin/"
+                  href="https://www.instagram.com/kawsar_robinn/"
                 >
                   <i className="fab fa-instagram mx-3"></i>
                 </a>

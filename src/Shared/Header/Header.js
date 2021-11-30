@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div>
       <Navbar
-        style={{ backgroundColor: '#010102', color: '#FFA600' }}
+        style={{ backgroundColor: '#06090F', color: '#FFA600' }}
         expand="lg"
       >
         <Container fluid>
