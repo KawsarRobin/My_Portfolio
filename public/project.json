@@ -2,55 +2,69 @@
   {
     "id": 1,
     "name": "Sky Cloud (MERN Stack)",
-    "imgFull": "https://i.ibb.co/K0snmsH/screenshot-sky-cloud-drone-web-app-2021-11-30-01-24-08.png",
-    "img1": "https://i.ibb.co/K0snmsH/screenshot-sky-cloud-drone-web-app-2021-11-30-01-24-08.png",
-    "img2": "https://i.ibb.co/d5stZyr/Shared-Screenshot.jpg",
-    "img3": "https://i.ibb.co/1870SWd/screencapture-sky-cloud-drone-web-app-explore-2021-11-30-01-04-36.png",
-    "desk": "Drone selling website including Login Authentication and dashboard for users and admin."
+    "img1": "https://i.ibb.co/Tkwwq35/screencapture-sky-cloud-drone-web-app-home-2021-11-30-00-55-40.png",
+    "imgMain": "https://i.ibb.co/K0snmsH/screenshot-sky-cloud-drone-web-app-2021-11-30-01-24-08.png",
+    "img2": "https://i.ibb.co/vj6Vg2p/sk-2.png",
+    "img3": "https://i.ibb.co/bbDB10y/sk-3.png",
+    "desk": "Drone selling website including Login Authentication and dashboard for users and admin.Users can Place orders, Post reviews, and Track orders & updates in the dashboard. An Admin can Manage all Orders and Products, add new products, Make a new Admin",
+    "live": "https://sky-cloud-drone.web.app/",
+    "client": "https://github.com/KawsarRobin/Sky-cloud-client-side",
+    "server": "https://github.com/KawsarRobin/Sky-cloud-server-side"
   },
   {
     "id": 2,
     "name": "Book And Travel (MERN Stack)",
-    "imgFull": "https://i.ibb.co/jk7mNM7/screencapture-book-and-travel-cd69c-web-app-home-2021-11-30-20-17-59.png",
-    "img1": "https://i.ibb.co/cN6LK0q/screenshot-book-and-travel-cd69c-web-app-2021-11-30-20-55-01.png",
-    "img2": "https://i.ibb.co/C9p2RQR/screenshot-book-and-travel-cd69c-web-app-2021-11-30-20-20-36.png",
-    "img3": "https://i.ibb.co/S3wFGYB/screenshot-book-and-travel-cd69c-web-app-2021-11-30-20-21-43.png",
-    "desk": "Travel service website including Login Authentication and dashboard for users and admin."
+    "img1": "https://i.ibb.co/mq06Dmr/tr-1.png",
+    "imgMain": "https://i.ibb.co/cN6LK0q/screenshot-book-and-travel-cd69c-web-app-2021-11-30-20-55-01.png",
+    "img2": "https://i.ibb.co/XFNByW2/tr-2.png",
+    "img3": "https://i.ibb.co/K2shzL0/tr-3.png",
+    "desk": "Travel Services website along with Admin panel to Manage Services and Bookings. Users can book services from the service list and will be able to track those bookings.Only an Admin can Launch new Services,Manage All Orders like Approve or Delete them",
+    "live": "https://book-and-travel-cd69c.web.app/",
+    "client": "https://github.com/KawsarRobin/book-and-travel-client-side",
+    "server": "https://github.com/KawsarRobin/book-and-travel-server-side"
   },
   {
     "id": 3,
     "name": "DOCTERY (Front End)",
-    "imgFull": "https://i.ibb.co/wNHjSvJ/screencapture-doctery-4f0d8-web-app-2021-11-30-20-24-23.png",
-    "img1": "https://i.ibb.co/J5XFM0K/screenshot-doctery-4f0d8-web-app-2021-11-30-20-53-41.png",
-    "img2": "https://i.ibb.co/pxpPkd0/screenshot-doctery-4f0d8-web-app-2021-11-30-20-26-05.png",
-    "img3": "https://i.ibb.co/Rb8hbjC/screenshot-doctery-4f0d8-web-app-2021-11-30-20-27-08.png",
-    "desk": "Doctor service website including Login Authentication and dashboard for users and admin."
+    "img1": "https://i.ibb.co/FzMrfwc/doc-1.png",
+    "imgMain": "https://i.ibb.co/J5XFM0K/screenshot-doctery-4f0d8-web-app-2021-11-30-20-53-41.png",
+    "img2": "https://i.ibb.co/wNrNXh8/doc-2.png",
+    "img3": "https://i.ibb.co/ThKbHcm/doc-3.png",
+    "desk": "Travel Services website along with Admin panel to Manage Services and Bookings. Users can book services from the service list and will be able to track those bookings.Only an Admin can Launch new Services,Manage All Orders like Approve or Delete them",
+    "live": "https://doctery-4f0d8.web.app/",
+    "client": "https://github.com/KawsarRobin/Doctery-React"
   },
   {
     "id": 4,
     "name": "Honda CBR (Front End)",
-    "imgFull": "https://i.ibb.co/wNHjSvJ/screencapture-doctery-4f0d8-web-app-2021-11-30-20-24-23.png",
-    "img1": "https://i.ibb.co/TMDPmBB/screenshot-honda-cbr-3rd-assignment-kawsar-robin-netlify-app-2021-11-30-21-12-04.png",
-    "img2": "https://i.ibb.co/pxpPkd0/screenshot-doctery-4f0d8-web-app-2021-11-30-20-26-05.png",
-    "img3": "https://i.ibb.co/Rb8hbjC/screenshot-doctery-4f0d8-web-app-2021-11-30-20-27-08.png",
-    "desk": "Doctor service website including Login Authentication and dashboard for users and admin."
+    "img1": "https://i.ibb.co/WtqXN4Q/cbr-1.png",
+    "imgMain": "https://i.ibb.co/TMDPmBB/screenshot-honda-cbr-3rd-assignment-kawsar-robin-netlify-app-2021-11-30-21-12-04.png",
+    "img2": "https://i.ibb.co/tznnX5w/cbr-2.png",
+    "img3": "https://i.ibb.co/CvPbgdW/cbr-3.png",
+    "desk": "A Company Called Honda are lunching there new product is called CBR_150. This website is basically made of this product. with some demo details. here user will see the review section where people are reviewed about the products",
+    "live": "https://honda-cbr-3rd-assignment-kawsar-robin.netlify.app/",
+    "client": "https://github.com/KawsarRobin/Doctery-Reacthttps://github.com/KawsarRobin/Honda-CBR"
   },
   {
     "id": 5,
     "name": "Skill Point (Front End)",
-    "imgFull": "https://i.ibb.co/wNHjSvJ/screencapture-doctery-4f0d8-web-app-2021-11-30-20-24-23.png",
-    "img1": "https://i.ibb.co/f4h9kvY/screenshot-skill-point-assignment-9-netlify-app-2021-11-30-21-21-00.png",
-    "img2": "https://i.ibb.co/pxpPkd0/screenshot-doctery-4f0d8-web-app-2021-11-30-20-26-05.png",
-    "img3": "https://i.ibb.co/Rb8hbjC/screenshot-doctery-4f0d8-web-app-2021-11-30-20-27-08.png",
-    "desk": "Doctor service website including Login Authentication and dashboard for users and admin."
+    "img1": "https://i.ibb.co/1ngC3jr/skill-1.png",
+    "imgMain": "https://i.ibb.co/f4h9kvY/screenshot-skill-point-assignment-9-netlify-app-2021-11-30-21-21-00.png",
+    "img2": "https://i.ibb.co/PFQz1rM/skill-2.png",
+    "img3": "https://i.ibb.co/TYHdzyj/skill-3.png",
+    "desk": "Skill Development Relatable Website, Where Users will see some courses and will be able to buy from this. With the options from navbar they will go to any routes and could see those pages details. user can buy any of course from them",
+    "live": "https://skill-point-assignment-9.netlify.app/",
+    "client": "https://github.com/KawsarRobin/Skill-Point-React"
   },
   {
     "id": 6,
     "name": "MackBook Pro (JavaScript)",
-    "imgFull": "https://i.ibb.co/wNHjSvJ/screencapture-doctery-4f0d8-web-app-2021-11-30-20-24-23.png",
-    "img1": "https://i.ibb.co/8b932sz/screenshot-macbook-pro-assignment-no-5-netlify-app-2021-11-30-21-16-02.png",
-    "img2": "https://i.ibb.co/pxpPkd0/screenshot-doctery-4f0d8-web-app-2021-11-30-20-26-05.png",
-    "img3": "https://i.ibb.co/Rb8hbjC/screenshot-doctery-4f0d8-web-app-2021-11-30-20-27-08.png",
-    "desk": "Doctor service website including Login Authentication and dashboard for users and admin."
+    "img1": "https://i.ibb.co/qyPGxzY/mac-1.png",
+    "imgMain": "https://i.ibb.co/8b932sz/screenshot-macbook-pro-assignment-no-5-netlify-app-2021-11-30-21-16-02.png",
+    "img2": "https://i.ibb.co/R3hPNtX/mac-2.png",
+    "img3": "https://i.ibb.co/nQBPBRb/mac-3.png",
+    "desk": "This is basically Booking implementation App. Here an user who is purchasing MaC-Book will be able to adjust his features(Ram, Storage, Etc). after adding extra service price will be added to the total price. User can also use coupon code(stevekaku) for 25% discount. ",
+    "live": "https://macbook-pro-assignment-no-5.netlify.app/",
+    "client": "https://github.com/KawsarRobin/MacBook-Pro-Js--A-5"
   }
 ]

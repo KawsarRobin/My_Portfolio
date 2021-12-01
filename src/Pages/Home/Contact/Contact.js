@@ -1,5 +1,6 @@
 import emailjs from 'emailjs-com';
 import React, { useRef } from 'react';
+import { Button } from 'react-bootstrap';
 
 const Contact = () => {
   const form = useRef();
@@ -51,7 +52,9 @@ const Contact = () => {
               <input className="w-100 mb-3" type="text" name="subject" /> <br />
               <label>Message</label>
               <textarea className="w-100 mb-3" name="message" />
-              <input type="submit" value="Submit" />
+              <Button type="submit" variant="outline-warning">
+                <i class="fas fa-paper-plane"></i> Send
+              </Button>
             </form>
           </div>
         </div>
