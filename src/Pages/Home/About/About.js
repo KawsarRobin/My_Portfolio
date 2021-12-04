@@ -25,19 +25,8 @@ const About = () => {
           </h2>
         </div>
         <Row xs={1} md={2} className="g-5">
-          <Slide left>
-            <Col>
-              <div className=" p-5">
-                <img
-                  className=" rounded rounded-5 img-fluid"
-                  src={`https://the-shahriar.github.io/assets/img/illustration/dark_illustration.svg`}
-                  alt=""
-                />
-              </div>
-            </Col>
-          </Slide>
           <Slide right>
-            <Col>
+            <Col className="pt-5">
               <div>
                 <h3 style={{ color: '#ffa600' }}>Web Developer</h3>
                 <p>
@@ -71,6 +60,18 @@ const About = () => {
                   about finding exciting insights from real-world information.
                   I'm always trying to enhance my qualities with new challenges.
                 </p>
+              </div>
+            </Col>
+          </Slide>
+          <Slide left>
+            <Col>
+              <div className="">
+                <img
+                  className=" rounded rounded-5 img-fluid"
+                  src={`https://i.ibb.co/68k6yx5/no-bg.png`}
+                  alt=""
+                  className="w-75"
+                />
               </div>
             </Col>
           </Slide>

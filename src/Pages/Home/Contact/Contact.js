@@ -53,7 +53,7 @@ const Contact = () => {
               <label>Message</label>
               <textarea className="w-100 mb-3" name="message" />
               <Button type="submit" variant="outline-warning">
-                <i class="fas fa-paper-plane"></i> Send
+                <i class="fas fa-paper-plane"></i> Send Message
               </Button>
             </form>
           </div>
